@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="chess_interface.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="37" Y="12"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="libchess_interface.pas"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="61"/>
+        <CursorPos X="39" Y="42"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="23">
+      <Position>
+        <Filename Value="chess_interface.lpr"/>
+        <Caret Line="4" Column="22"/>
+      </Position>
+      <Position>
+        <Filename Value="chess_interface.lpr"/>
+        <Caret Line="8" Column="10"/>
+      </Position>
+      <Position>
+        <Filename Value="chess_interface.lpr"/>
+        <Caret Line="4" Column="46"/>
+      </Position>
+      <Position>
+        <Filename Value="chess_interface.lpr"/>
+        <Caret Line="6" Column="25"/>
+      </Position>
+      <Position>
+        <Filename Value="libchess_interface.pas"/>
+        <Caret Line="7" Column="56"/>
+      </Position>
+      <Position>
+        <Filename Value="libchess_interface.pas"/>
+        <Caret Line="9" Column="9"/>
+      </Position>
+      <Position>
+        <Filename Value="libchess_interface.pas"/>
+        <Caret Line="7" Column="9"/>
+      </Position>
+      <Position>
+        <Filename Value="libchess_interface.pas"/>
+        <Caret Line="22" Column="75"/>
+      </Position>
+      <Position>
+        <Filename Value="libchess_interface.pas"/>
+        <Caret Line="25" Column="5"/>
+      </Position>
+      <Position>
+        <Filename Value="libchess_interface.pas"/>
+        <Caret Line="5" Column="10"/>
+      </Position>
+      <Position>
+        <Filename Value="libchess_interface.pas"/>
+        <Caret Line="26" Column="5" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="libchess_interface.pas"/>
+        <Caret Line="28" Column="42"/>
+      </Position>
+      <Position>
+        <Filename Value="libchess_interface.pas"/>
+        <Caret Line="30" Column="44"/>
+      </Position>
+      <Position>
+        <Filename Value="libchess_interface.pas"/>
+        <Caret Line="28" Column="4"/>
+      </Position>
+      <Position>
+        <Filename Value="libchess_interface.pas"/>
+        <Caret Line="62"/>
+      </Position>
+      <Position>
+        <Filename Value="libchess_interface.pas"/>
+        <Caret Line="40" Column="20"/>
+      </Position>
+      <Position>
+        <Filename Value="libchess_interface.pas"/>
+        <Caret Line="62" Column="81" TopLine="17"/>
+      </Position>
+      <Position>
+        <Filename Value="libchess_interface.pas"/>
+        <Caret Line="74" Column="81" TopLine="43"/>
+      </Position>
+      <Position>
+        <Filename Value="libchess_interface.pas"/>
+        <Caret Line="12" Column="22" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="libchess_interface.pas"/>
+        <Caret Line="34" TopLine="17"/>
+      </Position>
+      <Position>
+        <Filename Value="libchess_interface.pas"/>
+        <Caret Line="41" Column="59" TopLine="6"/>
+      </Position>
+      <Position>
+        <Filename Value="libchess_interface.pas"/>
+        <Caret Line="92" Column="70" TopLine="60"/>
+      </Position>
+      <Position>
+        <Filename Value="libchess_interface.pas"/>
+        <Caret Line="96" Column="112" TopLine="61"/>
+      </Position>
+      <Position>
+        <Filename Value="libchess_interface.pas"/>
+        <Caret Line="95" Column="81" TopLine="61"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

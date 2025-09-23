@@ -1,0 +1,5 @@
+program interface;
+
+begin
+end.
+
