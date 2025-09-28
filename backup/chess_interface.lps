@@ -9,20 +9,20 @@
         <Filename Value="chess_interface.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <CursorPos X="37" Y="12"/>
+        <CursorPos X="53" Y="26"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="libchess_interface.pas"/>
         <EditorIndex Value="1"/>
-        <TopLine Value="61"/>
-        <CursorPos X="39" Y="42"/>
+        <TopLine Value="9"/>
+        <CursorPos X="77" Y="47"/>
         <UsageCount Value="10"/>
         <Loaded Value="True"/>
       </Unit>
     </Units>
-    <JumpHistory HistoryIndex="23">
+    <JumpHistory HistoryIndex="29">
       <Position>
         <Filename Value="chess_interface.lpr"/>
         <Caret Line="4" Column="22"/>
@@ -97,10 +97,6 @@
       </Position>
       <Position>
         <Filename Value="libchess_interface.pas"/>
-        <Caret Line="12" Column="22" TopLine="13"/>
-      </Position>
-      <Position>
-        <Filename Value="libchess_interface.pas"/>
         <Caret Line="34" TopLine="17"/>
       </Position>
       <Position>
@@ -118,6 +114,34 @@
       <Position>
         <Filename Value="libchess_interface.pas"/>
         <Caret Line="95" Column="81" TopLine="61"/>
+      </Position>
+      <Position>
+        <Filename Value="chess_interface.lpr"/>
+        <Caret Line="20" Column="48"/>
+      </Position>
+      <Position>
+        <Filename Value="chess_interface.lpr"/>
+        <Caret Line="17" Column="34"/>
+      </Position>
+      <Position>
+        <Filename Value="chess_interface.lpr"/>
+        <Caret Line="19" Column="43"/>
+      </Position>
+      <Position>
+        <Filename Value="libchess_interface.pas"/>
+        <Caret Line="80" Column="42" TopLine="61"/>
+      </Position>
+      <Position>
+        <Filename Value="chess_interface.lpr"/>
+        <Caret Line="22" Column="51"/>
+      </Position>
+      <Position>
+        <Filename Value="chess_interface.lpr"/>
+        <Caret Line="18" Column="51"/>
+      </Position>
+      <Position>
+        <Filename Value="chess_interface.lpr"/>
+        <Caret Line="19" Column="20"/>
       </Position>
     </JumpHistory>
     <RunParams>

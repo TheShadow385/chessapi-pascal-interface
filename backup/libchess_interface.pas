@@ -34,7 +34,7 @@ type
 
   //! A Move represents a single chess move from a start location to an end location
   TMove = packed record
-      from_mvoe:BitBoard;      // A BitBoard representing the origin of the move
+      from_move:BitBoard;      // A BitBoard representing the origin of the move
       to_move:BitBoard;        // A BitBorad representing the target of the move
       promotion:Byte;     // Will be one of the BISHOP, KNIGHT, ROOK, QUEEN constants above, or 0 if not required
       capture:boolean;    // True if this move captures a piece
@@ -44,7 +44,7 @@ type
 
 function chess_get_board:PBoard;                                                cdecl; external 'libchess.dll';
 function chess_clone_board(Board:PBoard):PBoard;                                cdecl; external 'libchess.dll';
-function chess_get_legal_moves(Board:PBoard; len:PInt):PMove;                   cdecl; external 'libchess.dll';
+function chess_get_legal_moves(Board:PBoard; len:PInt):PMove; {Array}           cdecl; external 'libchess.dll';
 
 function chess_is_white_turn(Board: PBoard):boolean;                            cdecl; external 'libchess.dll';
 function chess_is_black_turn(Board: PBoard):boolean;                            cdecl; external 'libchess.dll';
@@ -97,7 +97,10 @@ function chess_get_color_from_bitboard(Board: PBoard;
 function chess_get_index_from_bitboard(Bitboard:BitBoard):LongInt;              cdecl; external 'libchess.dll';
 function chess_get_bitboard_from_index(index:LongInt):BitBoard;                 cdecl; external 'libchess.dll';
 
+///// OTHER /////
 
+function chess_get_opponent_move(index:LongInt):BitBoard;                       cdecl; external 'libchess.dll';
+function chess_free_moves_array(moves:PMove):BitBoard;                          cdecl; external 'libchess.dll';
 
 function hello:boolean; cdecl; external 'libchess.dll';
 

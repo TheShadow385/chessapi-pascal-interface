@@ -44,7 +44,7 @@ type
 
 function chess_get_board:PBoard;                                                cdecl; external 'libchess.dll';
 function chess_clone_board(Board:PBoard):PBoard;                                cdecl; external 'libchess.dll';
-function chess_get_legal_moves(Board:PBoard; len:PInt):PMove; {Array}           cdecl; external 'libchess.dll';
+function chess_get_legal_moves(Board:PBoard; len:LongInt):PMove; {Array}        cdecl; external 'libchess.dll';
 
 function chess_is_white_turn(Board: PBoard):boolean;                            cdecl; external 'libchess.dll';
 function chess_is_black_turn(Board: PBoard):boolean;                            cdecl; external 'libchess.dll';
