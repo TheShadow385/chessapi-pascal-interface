@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CONFIG>
-  <Compiler Value="C:\Lazarus\64x\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1525897257"/>
-  <Params Value="-Px86_64 -MObjFPC -Scghi -O1 -gw3 -gl -l -vewnhibq -FiE:\Laz_projects\chessapi-pascal-interface\lib\x86_64-win64 -FuE:\Laz_projects\chessapi-pascal-interface\ -FUE:\Laz_projects\chessapi-pascal-interface\lib\x86_64-win64\ -FEE:\Laz_projects\chessapi-pascal-interface\ -oE:\Laz_projects\chessapi-pascal-interface\chess_interface.exe chess_interface.lpr"/>
-</CONFIG>
