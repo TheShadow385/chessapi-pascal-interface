@@ -41,10 +41,10 @@ type
       from_move:BitBoard;      // A BitBoard representing the origin of the move
       to_move:BitBoard;        // A BitBorad representing the target of the move
       promotion:cuint8;     // Will be one of the BISHOP, KNIGHT, ROOK, QUEEN constants above, or 0 if not required
-      capture:cuint8;    // True if this move captures a piece
-      castle:cuint8;     // True if this move is castling
+      capture:cbool;    // True if this move captures a piece
+      castle:cbool;     // True if this move is castling
 
-      _padding: array[0..4] of cuint8; // manual padding
+      //_padding: array[0..4] of cuint8; // manual padding
   end;
   PMove = ^TMove;
 
