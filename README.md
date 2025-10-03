@@ -1,4 +1,4 @@
-# Chess bot tournament Pascal API
+# Chess bot tournament Pascal interface
 Pascal bindings for Shiro's Chess bot API for the Neurocord Chess bot tournament
 
 ## Usage
@@ -33,3 +33,4 @@ begin
    end;
 end. 
 ```
+
