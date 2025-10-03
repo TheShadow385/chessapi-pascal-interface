@@ -1,5 +1,5 @@
 # Chess bot tournament Pascal interface
-Pascal bindings for Shiro's Chess bot API for the Neurocord Chess bot tournament
+Pascal interface for Shiro's Chess bot API for the Neurocord Chess bot tournament
 
 ## Usage
 - Download libchess_interface.pas
@@ -33,4 +33,5 @@ begin
    end;
 end. 
 ```
+
 
