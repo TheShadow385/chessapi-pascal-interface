@@ -9,52 +9,45 @@
         <Filename Value="example_bot.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="5"/>
-        <CursorPos X="32" Y="46"/>
-        <FoldState Value=" T3J0KB"/>
-        <UsageCount Value="29"/>
+        <CursorPos X="45" Y="26"/>
+        <UsageCount Value="31"/>
         <Loaded Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="libchess_interface.pas"/>
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="1"/>
-        <TopLine Value="19"/>
-        <CursorPos X="11" Y="40"/>
-        <UsageCount Value="29"/>
+        <CursorPos X="31" Y="30"/>
+        <UsageCount Value="31"/>
         <Loaded Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="..\chessapi-pascal-interface-dev\c2\chessapi.h"/>
-        <EditorIndex Value="2"/>
+        <EditorIndex Value="-1"/>
         <TopLine Value="8"/>
         <CursorPos X="33" Y="68"/>
         <UsageCount Value="14"/>
-        <Loaded Value="True"/>
-        <DefaultSyntaxHighlighter Value="C_2B_2B"/>
       </Unit>
       <Unit>
         <Filename Value="..\chessapi-pascal-interface-dev\c2\chessapi.c"/>
-        <EditorIndex Value="3"/>
+        <EditorIndex Value="-1"/>
         <CursorPos X="73" Y="10"/>
         <UsageCount Value="14"/>
-        <Loaded Value="True"/>
-        <DefaultSyntaxHighlighter Value="C_2B_2B"/>
       </Unit>
       <Unit>
         <Filename Value="..\chessapi-pascal-interface-dev\c2\bitboard.h"/>
-        <EditorIndex Value="4"/>
+        <EditorIndex Value="-1"/>
         <CursorPos X="17" Y="25"/>
         <UsageCount Value="13"/>
-        <Loaded Value="True"/>
-        <DefaultSyntaxHighlighter Value="C_2B_2B"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\inc\ctypes.pp"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="57" Y="24"/>
+        <UsageCount Value="10"/>
       </Unit>
     </Units>
     <JumpHistory HistoryIndex="29">
-      <Position>
-        <Filename Value="example_bot.lpr"/>
-        <Caret Line="23" Column="49" TopLine="2"/>
-      </Position>
       <Position>
         <Filename Value="example_bot.lpr"/>
         <Caret Line="26" Column="121" TopLine="3"/>
@@ -120,10 +113,6 @@
         <Caret Line="36" Column="58" TopLine="12"/>
       </Position>
       <Position>
-        <Filename Value="..\chessapi-pascal-interface-dev\c2\chessapi.h"/>
-        <Caret Line="344" TopLine="7"/>
-      </Position>
-      <Position>
         <Filename Value="example_bot.lpr"/>
         <Caret Line="43" Column="62" TopLine="20"/>
       </Position>
@@ -156,20 +145,28 @@
         <Caret Line="37" Column="19" TopLine="19"/>
       </Position>
       <Position>
-        <Filename Value="..\chessapi-pascal-interface-dev\c2\chessapi.h"/>
-        <Caret Line="34" Column="30" TopLine="28"/>
+        <Filename Value="example_bot.lpr"/>
+        <Caret Line="28" Column="46"/>
       </Position>
       <Position>
-        <Filename Value="..\chessapi-pascal-interface-dev\c2\chessapi.h"/>
-        <Caret Line="253" Column="79" TopLine="218"/>
+        <Filename Value="example_bot.lpr"/>
+        <Caret Line="15" Column="13"/>
       </Position>
       <Position>
-        <Filename Value="..\chessapi-pascal-interface-dev\c2\chessapi.h"/>
-        <Caret Line="254" Column="15" TopLine="219"/>
+        <Filename Value="libchess_interface.pas"/>
+        <Caret Line="60" Column="55" TopLine="29"/>
       </Position>
       <Position>
-        <Filename Value="..\chessapi-pascal-interface-dev\c2\chessapi.h"/>
-        <Caret Line="235" Column="39" TopLine="230"/>
+        <Filename Value="libchess_interface.pas"/>
+        <Caret Line="79" Column="30"/>
+      </Position>
+      <Position>
+        <Filename Value="libchess_interface.pas"/>
+        <Caret Line="19" Column="45"/>
+      </Position>
+      <Position>
+        <Filename Value="libchess_interface.pas"/>
+        <Caret Line="100" Column="60" TopLine="81"/>
       </Position>
     </JumpHistory>
     <RunParams>
