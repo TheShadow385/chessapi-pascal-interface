@@ -55,6 +55,8 @@ type
   const libchess='libchess.so';
   {$ENDIF}
 
+  ///// BOARD-RELATED FUNCTIONS /////
+
 function chess_get_board():PBoard;                                              cdecl; external libchess;
 function chess_clone_board(Board:PBoard):PBoard;                                cdecl; external libchess;
 function chess_get_legal_moves(Board:PBoard; len:Pcint):PMove;                  cdecl; external libchess;

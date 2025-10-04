@@ -1,2 +1,4 @@
 *.dll
 *.exe
+example_bot.lps
+/backup
